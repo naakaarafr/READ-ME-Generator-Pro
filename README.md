@@ -75,8 +75,8 @@ README Generator Pro is a sophisticated Streamlit web application that leverages
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/readme-generator-pro.git
-   cd readme-generator-pro
+   git clone https://github.com/naakaarafr/READ-ME-Generator-Pro.git
+   cd READ-ME-Generator-Pro
    ```
 
 2. **Install dependencies**
